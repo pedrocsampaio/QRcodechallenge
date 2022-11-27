@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@500&family=Poppins&display=swap');
 
-
 *{
     background-color: #D6E2F0;
     margin: 0;
@@ -24,21 +23,21 @@
     background-color: white;
     box-shadow: 3px 3px 20px 0px rgba(128, 128, 128, 0.514);
     border-radius: 30px;
-    padding: 30px;
+    padding: 20px;
 }
 
 .card img{
     width: 100%;
     border-radius: 30px;
-    margin-bottom: 40px;
-    max-width: 449px;
+    margin-bottom: 25px;
+    max-width: 300px;
     
 }
 
 h1{
     font-weight: 700;
-    width: 418px;
-    font-size: 33px;
+    width: 300px;
+    font-size: 21px;
     background-color: white;
     text-align: center;
     font-family: 'Poppins', sans-serif;
@@ -48,10 +47,11 @@ h1{
 
 p{
     background-color: white;
+    color: rgb(105, 105, 105);
     font-weight: 400;
-    padding-top: 25px;
-    width: 339px;
+    padding-top: 15px;
+    width: 232px;
     text-align: center;
-    font-size: 22px;
+    font-size: 15px;
     font-family: 'Poppins', sans-serif;
 }  
